@@ -33,9 +33,9 @@ L’application est destinée à fonctionner sur **Android**.
 
  **Capture d’écran du projet Unity créé**
 
-```
+
 <img width="570" height="142" alt="image" src="https://github.com/user-attachments/assets/4ec0bc3e-edc9-4dd2-8028-3acdc6eeac7c" />
-```
+
 
 ---
 
@@ -51,26 +51,24 @@ Dans **File → Build Settings → Android** :
 
  **Capture Build Settings Android**
 
-```
 <img width="476" height="447" alt="image" src="https://github.com/user-attachments/assets/63f918f8-11d7-4e39-a0db-2f7075f89611" />
-```
-```
+
+
 <img width="1888" height="992" alt="image" src="https://github.com/user-attachments/assets/c096a052-1737-4605-b3c6-863609deb4a7" />
-```
-```
+
+
 <img width="1899" height="987" alt="image" src="https://github.com/user-attachments/assets/23d9bb8e-77ab-473a-a52a-e5400768fd2a" />
-```
-```
+
+
 <img width="1899" height="987" alt="image" src="https://github.com/user-attachments/assets/53f7ad36-f3f8-4e8b-8b27-da7f9711ee37" />
-```
+
 
  **Other Settings – Configuration Vuforia**
 
-```
-<img width="594" height="416" alt="image" src="https://github.com/user-attachments/assets/9f5d9352-975e-4231-9211-1c362093f26d" />
-```
 
----
+<img width="594" height="416" alt="image" src="https://github.com/user-attachments/assets/9f5d9352-975e-4231-9211-1c362093f26d" />
+
+
 
 ### **2.3. Création du Image Target**
 
@@ -81,7 +79,6 @@ Dans **File → Build Settings → Android** :
 
  **Capture du Image Target dans Unity**
 
-```
 <img width="206" height="73" alt="image" src="https://github.com/user-attachments/assets/55366a5c-d1ac-45f6-aca8-2b9e9c32e45e" />
 
 <img width="343" height="411" alt="image" src="https://github.com/user-attachments/assets/457484a3-88fb-40ca-a283-cf2226744073" />
@@ -91,23 +88,18 @@ Dans **File → Build Settings → Android** :
 <img width="344" height="438" alt="image" src="https://github.com/user-attachments/assets/ffacf8b0-671f-4311-9fb1-b7f46f18a424" />
 
 <img width="339" height="428" alt="image" src="https://github.com/user-attachments/assets/022ac525-3689-4ca0-a383-d84ae82778d5" />
-```
 
-```
 <img width="1101" height="587" alt="image" src="https://github.com/user-attachments/assets/1e56dace-8211-4721-9dae-cacbed3263f2" />
-```
 
  **Placement du modèle 3D**
 
-```
+
 <img width="292" height="178" alt="image" src="https://github.com/user-attachments/assets/9af6a418-45b2-451a-8e0a-3d7cbc230332" />
 
 <img width="862" height="588" alt="image" src="https://github.com/user-attachments/assets/60a77ca0-d51a-476b-95bf-05c677a2ac2f" />
 
 <img width="451" height="173" alt="image" src="https://github.com/user-attachments/assets/27fffc79-daaf-471b-9334-c25b3415e686" />
-```
 
----
 
 ### **2.4. Ajout des sons**
 
@@ -118,19 +110,19 @@ Dans **File → Build Settings → Android** :
  **Capture AudioSource et sons assignés**
 
 ***Pour ImageTarget:***
-```
+
 <img width="337" height="404" alt="image" src="https://github.com/user-attachments/assets/b6c00baa-2771-44ec-b5cd-9cafeb4b489c" />
-```
+
 
 ***Pour Model 1 (Dino1):***
-```
+
 <img width="342" height="423" alt="image" src="https://github.com/user-attachments/assets/0cd50687-213e-481a-baf3-68ce8d17f268" />
-```
+
 
 ***Pour Model 2 (Dino2):***
-```
+
 <img width="339" height="378" alt="image" src="https://github.com/user-attachments/assets/55aa5b97-3be8-4880-ab76-8f9c500a0bde" />
-```
+
 
 ---
 
@@ -155,9 +147,8 @@ selon la détection de l’image.
 
  **Capture des scripts dans Unity**
 
-```
 <img width="868" height="222" alt="image" src="https://github.com/user-attachments/assets/ce6d5fea-63af-46be-9bce-6c4f509f01e1" />
-```
+
 
 ``` ARAudioManager.cs
 using System.Collections;
@@ -336,13 +327,13 @@ public class PlaySoundOnDetect : MonoBehaviour
 
  **Capture test sur smartphone **
 
-```
+
 ![dino ‐ Réalisée avec Clipchamp-2](https://github.com/user-attachments/assets/0ea3bc57-3e3b-4aef-9b2c-e70718761b1b)
 
 ![dino ‐ Réalisée avec Clipchamp-1](https://github.com/user-attachments/assets/405d6831-3c78-42e6-9662-bb4131135f4e)
 
 ![dino ‐ Réalisée avec Clipchamp-3](https://github.com/user-attachments/assets/cf7347ef-5cb4-4169-b448-b6835589ad60)
-```
+
 
 ---
 
@@ -358,10 +349,9 @@ L’application fonctionne correctement :
 
  **Capture du Velociraptor en AR**
 
-```
 <img width="469" height="299" alt="image" src="https://github.com/user-attachments/assets/defbc4db-30dd-42b9-9a19-ef4abc15d24c" />
 
-```
+
 
 ---
 
@@ -376,9 +366,9 @@ Une vidéo est jointe montrant :
 
  **Miniature ou capture de la vidéo**
 
-```
+
 [![Vidéo démonstrative](https://img.youtube.com/vi/j1pCxNkvVwA/maxresdefault.jpg)](https://youtu.be/j1pCxNkvVwA)
-```
+
 
 ---
 
@@ -413,3 +403,4 @@ L’application finale est interactive, fluide et démontre efficacement les bas
  ┣ README.md
  ┗ video_demo.mp4
 ```
+
